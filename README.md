@@ -1,6 +1,6 @@
 # 3-Tier Web Application on AWS using Terraform
 
-![Architecture](manara.png)
+![Architecture](diagram.png)
 
 This project builds a complete 3-tier web application infrastructure on AWS using Terraform. The architecture follows best practices in terms of security, scalability, and availability, and is built using modular Terraform code.
 
